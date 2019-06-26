@@ -1,0 +1,36 @@
+html body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+  
+h1 {
+    font-family: Tahoma, sans-serif;
+    color: 191A1A;
+    font-size: 45px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    display: none;
+}
+
+svg { 
+    font-weight: bold;
+    width: 60%;
+    height: initial;
+    background-size:cover;
+    font-family: 'Cabin Condensed', sans-serif;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    position: absolute;
+    left: 22%;
+    bottom: 80px;    
+}

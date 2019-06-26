@@ -1,0 +1,17 @@
+button {
+    float: right;
+}
+
+button.btn.btn-danger{
+    margin: 10px;
+}
+
+#buttonReset {
+    color: #fff;
+    background-color:#252739;
+    border-color: #252739;
+    float: right;
+    margin-right: -10%;
+    display: flex;
+    margin-right: 7px;
+}
